@@ -36,7 +36,7 @@
         <div class="reservation">
             <p class="phone_index">お問い合わせはこちらまで</p>
             <p class="phone">TEL:0282-22-1827</p>
-            <p class="store_time">営業時間 : 10:00〜18:00<br >&nbsp;(会席料理は要予約)</p>
+            <p class="store_time">営業時間 : 10:00〜18:00<br >&nbsp;(宴会は昼、夜、要予約)</p>
         </div>
     </div>
 </div>

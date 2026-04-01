@@ -78,7 +78,7 @@
                                     <p class="phone_index">お問い合わせはこちらまで</p>
                                     <p class="phone number-spacing">0282-22-1827</p>
                                     <p class="store_time number-spacing">営業時間 : 10:00〜18:00</p>
-                                    <p class="time-yoyaku">(会席料理は要予約)</p>
+                                    <p class="time-yoyaku">(宴会は昼、夜、要予約)</p>
                                 </div>
                             </template>
                         </div>

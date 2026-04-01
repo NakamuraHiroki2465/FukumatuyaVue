@@ -37,7 +37,7 @@
                         </div>  
                         <div class="image column is-5">
                             <img src='@/assets/images/special.png' alt="料理長のご挨拶">
-                            <p>スペシャル弁当 (税込1100円)</p>
+                            <p>スペシャル弁当 (税込1200円)</p>
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@ export default {
                 },
                 {
                     name:'カレーライス',
-                    price:'650',
+                    price:'700',
                 },
                 {
                     name: 'チーズキャンドル',

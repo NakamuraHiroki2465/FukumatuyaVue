@@ -26,7 +26,7 @@
                     営業時間&nbsp;:&nbsp;9:00&nbsp;～&nbsp;18:00
                   </p>
                   <p class="time kaiseki" v-if="!sp">
-                    (会席料理は要予約)
+                    (宴会は昼、夜、要予約)
                   </p>
                 </div>
   
