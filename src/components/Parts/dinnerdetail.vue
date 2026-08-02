@@ -23,24 +23,7 @@
                                 </a>
                             </div>
                         </div>
-                        <h3 class="title sub">ご要望について</h3>
-                        <p>福松家ではそれぞれのお客様の要望に沿えるよう、できうる限りのご相談に乗ります。<br>まずはお電話から、お気軽にご相談ください。</p>
-                        <div class="sub-text">
-                            <div class="about-text">
-                                <div class="example-title">
-                                   <h4 class="example-title__content">※実際にご要望に沿った例</h4> 
-                                </div>
-                                <div class="example" >
-                                    <p class="subtitle">1.&nbsp;生物が食べられないお客様</p>
-                                    <p class="subtext">例：代わりに焼き魚や煮物、火を通した料理を提供いたしました。</p>
-                                </div>
-                                <div class="example">
-                                    <p class="subtitle">2.&nbsp;病気で食事が制限されている</p>
-                                    <p class="subtext">例：塩分を抜いた料理を提供いたしました。玉子焼きでは出汁を抜き、焼き鳥はタレをつけず焼くなどを致しました。</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>  
+                    </div>
                     <div  class="image">
                         <div class="column-wrapper">
                             <template v-if="!sp">
@@ -205,20 +188,6 @@ export default {
     }
 }
 
-.sub{
-    padding-top:20px;
-    font-size:1.7em;
-}
-.example{
-    padding:15px 10px;
-    color:rgba(0,0,0,0.7);
-    font-size:1rem;
-}
-.subtitle{
-    border-bottom:1px solid brown;
-    margin-bottom:10px;
-}
-
 .reservation{
     margin:auto;
     width:100%;
@@ -258,15 +227,6 @@ export default {
 }
 .flex-wrapper{
     display:flex;
-}
-.example-title{
-
-    &__content{
-        font-weight:lighter;
-    }
-}
-.sub-text{
-    padding-top:20px;
 }
 .number-spacing{
     letter-spacing:0.01em;
